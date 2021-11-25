@@ -36,13 +36,13 @@ recommendation system.
 ### And a whole lot of visualization
 
 ## Algorithm Overview:
-Step 1: Import the data 
-Step 2: Check for missing values in the dataset 
-Step 3: Handle the missing attributes 
-Step 4: Perform Analysis on the dataset 
-Step 5: Analyse Movies and Shows Separately 
-Step 6: Begin Data Preparation for the model. 
-Step 7: Combine the important attributes and create a new feature attribute. 
-Step 8: Extract keywords 
-Step 9: Implement the recommender function 
-Step 10: Display the movie or show names. 
+- Step 1: Import the data 
+- Step 2: Check for missing values in the dataset 
+- Step 3: Handle the missing attributes 
+- Step 4: Perform Analysis on the dataset 
+- Step 5: Analyse Movies and Shows Separately 
+- Step 6: Begin Data Preparation for the model. 
+- Step 7: Combine the important attributes and create a new feature attribute. 
+- Step 8: Extract keywords 
+- Step 9: Implement the recommender function 
+- Step 10: Display the movie or show names. 
